@@ -13,4 +13,4 @@ And finally it contains the following demo projects:
 - [Automation with Python](./demo-projects/2-automation-with-python/)
 - [API Request to GitLab](./demo-projects/3-gitlab-api-request/)
 
-<< Back to [DevOps Bootcamp Module Overview](https://github.com/fsiegrist/twn-devops-bootcamp)
+<< Back to [DevOps Bootcamp Module Overview](https://github.com/franpanteli/twn-devops-bootcamp)
